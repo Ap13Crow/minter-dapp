@@ -1,4 +1,7 @@
-# Minting DAPP
+# Minting DAPP for Neferkey 
+This fork pursues the idea to prepare a new minting plattform for classical music recordings and compositions as NFT on Ethereum and also Polygon 
+Blockchain. 
+The original project is forked from codeSTACKr/minter-dapp.
 
 ## Table of Contents
 
